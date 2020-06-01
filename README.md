@@ -6,3 +6,16 @@ Technologies:
 - TypeScript
 - React
 - Bulma
+
+Install:
+
+```text
+$ npm install
+```
+
+Then run these commands in separate terminals:
+
+```text
+$ npm run re:watch
+$ npm start
+```
