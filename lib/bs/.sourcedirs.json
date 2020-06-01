@@ -1,0 +1,1 @@
+{ "dirs" : [ "src" , "src/styles" , "src/pages" , "src/components" ] , "pkgs" : [ [ "bs-platform" , "/home/pv/code/REASON_EXPERIMENTS/hybrid/node_modules/bs-platform" ] , [ "reason-react" , "/home/pv/code/REASON_EXPERIMENTS/hybrid/node_modules/reason-react" ] ] , "generated" : [] }
